@@ -11,7 +11,7 @@ Tabelas Dinâmicas para filtragem de informações.
 Segmentação de Dados (Slicers) para interatividade.
 📸 Demonstração
 (Dica: Coloque uma screenshot do seu projeto aqui!)
-!![Screenshot do Dashboard](./assets/dashboard_xbox.png)
+!![Screenshot do Dashboard](.dashboard_xbox.png)
 📚 Como Executar
 Clone o repositório.
 Abra o arquivo nome-do-arquivo.xlsx (ou index.html).
